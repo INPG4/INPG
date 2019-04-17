@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\matlab_8__debug.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\matlab_8__debug.dir/objects.a @CMakeFiles\matlab_8__debug.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\matlab_8__debug.dir/objects.a -Wl,--no-whole-archive  -o matlab_8__debug.exe -Wl,--out-implib,libmatlab_8__debug.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\matlab_8__debug.dir\linklibs.rsp
