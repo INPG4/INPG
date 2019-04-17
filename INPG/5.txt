@@ -1,0 +1,23 @@
+int main()
+{
+  int liczba;
+ 
+  printf("\n");
+  printf("1539\n");
+  printf("grupa C\n\n");
+  printf("\tProgram przeksztalca liczby arabskie na rzymskie.\n\n");
+ 
+ 
+  for(;;)
+  {
+    printf("Podaj liczbe arabska: ");
+   
+        scanf("%d", &liczba);
+   
+        if(liczba<1 || liczba>3999)
+                return 0;
+   
+        printf("\nLiczba Rzymska: %s\n\n", dectorom(liczba));
+  }
+  scanf("%d", &liczba);
+}
