@@ -3,6 +3,7 @@
 #include <string.h>
 
 struct Rzym_t
+///////////////////
 {
   char *s;
   int w;
