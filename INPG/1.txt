@@ -1,4 +1,4 @@
-#include<iostream> //////////////// booooooo
+#include<iostream> ////////////////
 #include<math.h>
 #include<numeric>
 using namespace std;
