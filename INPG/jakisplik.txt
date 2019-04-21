@@ -1,0 +1,13 @@
+#include<jakasbiblioteka>
+
+using namespace xd;
+
+int main(){
+	jakiskod();
+	wiecej kodu;
+	a_tu_znowu_jakas_funkcja();
+	for(auto a : jakis_vector)
+		zrob_cos();
+	//a to nic nie robi
+	a_to_juz_cos_robi()
+}
